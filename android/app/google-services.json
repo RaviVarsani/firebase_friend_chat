@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1004583183834",
+    "project_id": "friendchat-23fa5",
+    "storage_bucket": "friendchat-23fa5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004583183834:android:e2fc2df19a29f414aacce3",
+        "android_client_info": {
+          "package_name": "com.example.friend_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004583183834-eqi1sc5uuvrdm560i9542s0179uitu33.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.friend_chat",
+            "certificate_hash": "234a3d09f38bb70b10669b8493570687d0545d81"
+          }
+        },
+        {
+          "client_id": "1004583183834-qlb9vci6r83n4uoln1e3fuom5p3931s8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXsFig7nI7mPpVgp2FGkaXLGYEFnnRaqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004583183834-qlb9vci6r83n4uoln1e3fuom5p3931s8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1004583183834-9v6a9lpgp36ej6jfivk60vpadpsnq117.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.friendChat.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
